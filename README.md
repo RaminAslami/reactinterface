@@ -1,3 +1,10 @@
+#If you get the error "react-scripts: command not found error in React.js" after running: npm start.
+
+Add: npm install react-scripts --force
+then: npm start
+
+Add this: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
